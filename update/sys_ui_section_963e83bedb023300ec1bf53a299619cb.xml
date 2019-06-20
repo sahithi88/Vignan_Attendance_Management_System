@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="963e83bedb023300ec1bf53a299619cb" sys_domain="global" table="x_340232_vignan_at_attendance" version="3" view="view1">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 04:57:10</sys_created_on>
+            <sys_id>d23e83bedb023300ec1bf53a299619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_340232_vignan_at_attendance" sys_domain="global" view="f4cc16d5db383300ec1bf53a29961917">963e83bedb023300ec1bf53a299619cb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 04:57:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_department</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 04:57:10</sys_created_on>
+            <sys_id>563e83bedb023300ec1bf53a299619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_340232_vignan_at_attendance" sys_domain="global" view="f4cc16d5db383300ec1bf53a29961917">963e83bedb023300ec1bf53a299619cb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 04:57:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_section</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 04:57:10</sys_created_on>
+            <sys_id>d63e83bedb023300ec1bf53a299619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_340232_vignan_at_attendance" sys_domain="global" view="f4cc16d5db383300ec1bf53a29961917">963e83bedb023300ec1bf53a299619cb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 04:57:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_yearsem</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 04:57:10</sys_created_on>
+            <sys_id>5a3e83bedb023300ec1bf53a299619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_340232_vignan_at_attendance" sys_domain="global" view="f4cc16d5db383300ec1bf53a29961917">963e83bedb023300ec1bf53a299619cb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 04:57:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_340232_vignan_at_attendance</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 04:57:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>963e83bedb023300ec1bf53a299619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_340232_vignan_at_attendance</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Vignan_Attendance_Management_System" source="x_340232_vignan_at">94c48fb6db023300ec1bf53a299619db</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Vignan_Attendance_Management_System">94c48fb6db023300ec1bf53a299619db</sys_scope>
+            <sys_update_name>sys_ui_section_963e83bedb023300ec1bf53a299619cb</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 04:57:10</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="view1" name="view1">f4cc16d5db383300ec1bf53a29961917</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

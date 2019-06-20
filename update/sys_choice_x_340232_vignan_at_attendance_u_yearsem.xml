@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_yearsem" table="x_340232_vignan_at_attendance" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_yearsem</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1-1</label>
+            <language>en</language>
+            <name>x_340232_vignan_at_attendance</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 04:56:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>520e03bedb023300ec1bf53a299619ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 04:56:21</sys_updated_on>
+            <value>1-1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_yearsem</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1-2</label>
+            <language>en</language>
+            <name>x_340232_vignan_at_attendance</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 04:56:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>920e03bedb023300ec1bf53a299619ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 04:56:21</sys_updated_on>
+            <value>1-2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_yearsem</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2-1</label>
+            <language>en</language>
+            <name>x_340232_vignan_at_attendance</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 04:56:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>120e03bedb023300ec1bf53a299619f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 04:56:21</sys_updated_on>
+            <value>2-1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_yearsem</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2-2</label>
+            <language>en</language>
+            <name>x_340232_vignan_at_attendance</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 04:56:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9e0e03bedb023300ec1bf53a299619f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 04:56:21</sys_updated_on>
+            <value>2-2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_yearsem</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3-1</label>
+            <language>en</language>
+            <name>x_340232_vignan_at_attendance</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 04:56:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1e0e03bedb023300ec1bf53a299619f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 04:56:21</sys_updated_on>
+            <value>3-1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_yearsem</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3-2</label>
+            <language>en</language>
+            <name>x_340232_vignan_at_attendance</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 04:56:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9a0e03bedb023300ec1bf53a299619f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 04:56:21</sys_updated_on>
+            <value>3-2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_yearsem</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4-1</label>
+            <language>en</language>
+            <name>x_340232_vignan_at_attendance</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 04:56:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1a0e03bedb023300ec1bf53a299619f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 04:56:21</sys_updated_on>
+            <value>4-1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_yearsem</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4-2</label>
+            <language>en</language>
+            <name>x_340232_vignan_at_attendance</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 04:56:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>960e03bedb023300ec1bf53a299619f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 04:56:21</sys_updated_on>
+            <value>4-2</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_yearsem</element>
+            <name>x_340232_vignan_at_attendance</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 04:56:21</sys_created_on>
+            <sys_id>9a0e03bedb023300ec1bf53a299619ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_yearsem</sys_name>
+            <sys_package display_value="Vignan_Attendance_Management_System" source="x_340232_vignan_at">94c48fb6db023300ec1bf53a299619db</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Vignan_Attendance_Management_System">94c48fb6db023300ec1bf53a299619db</sys_scope>
+            <sys_update_name>sys_choice_x_340232_vignan_at_attendance_u_yearsem</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 04:56:21</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

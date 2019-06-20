@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Attendance">caa6837adb023300ec1bf53a29961969</application>
+        <filter/>
+        <name>Attendances</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_340232_vignan_at.attendance_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-19 04:24:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>96a6837adb023300ec1bf53a2996196b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Attendances</sys_name>
+        <sys_package display_value="Vignan_Attendance_Management_System" source="x_340232_vignan_at">94c48fb6db023300ec1bf53a299619db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vignan_Attendance_Management_System">94c48fb6db023300ec1bf53a299619db</sys_scope>
+        <sys_update_name>sys_ui_module_96a6837adb023300ec1bf53a2996196b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-19 04:24:07</sys_updated_on>
+        <table>x_340232_vignan_at_attendance</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

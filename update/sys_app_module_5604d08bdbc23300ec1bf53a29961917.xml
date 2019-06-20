@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Vignan_Attendance_Management_System">02a6837adb023300ec1bf53a29961965</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DETAIL</link_type>
+        <map_page/>
+        <mobile_title>View attendance</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_340232_vignan_at_attendance</name>
+        <order>200</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_340232_vignan_at.attendance_user,x_340232_vignan_at.View attendance</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-19 10:03:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5604d08bdbc23300ec1bf53a29961917</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>View attendance</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Vignan_Attendance_Management_System" source="x_340232_vignan_at">94c48fb6db023300ec1bf53a299619db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vignan_Attendance_Management_System">94c48fb6db023300ec1bf53a299619db</sys_scope>
+        <sys_update_name>sys_app_module_5604d08bdbc23300ec1bf53a29961917</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-19 10:35:40</sys_updated_on>
+        <timeline_page/>
+        <title>View attendance</title>
+        <uncancelable>false</uncancelable>
+        <view_name>viewatt</view_name>
+        <window_name/>
+    </sys_app_module>
+</record_update>

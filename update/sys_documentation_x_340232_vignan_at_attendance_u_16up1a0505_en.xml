@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_16up1a0505" label="16UP1A0505" language="en" table="x_340232_vignan_at_attendance">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_16up1a0505</element>
+            <help/>
+            <hint/>
+            <label>16UP1A0505</label>
+            <language>en</language>
+            <name>x_340232_vignan_at_attendance</name>
+            <plural>16UP1A0505s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 08:50:20</sys_created_on>
+            <sys_id>b19308cfdb823300ec1bf53a2996199d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>16UP1A0505</sys_name>
+            <sys_package display_value="Vignan_Attendance_Management_System" source="x_340232_vignan_at">94c48fb6db023300ec1bf53a299619db</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Vignan_Attendance_Management_System">94c48fb6db023300ec1bf53a299619db</sys_scope>
+            <sys_update_name>sys_documentation_x_340232_vignan_at_attendance_u_16up1a0505_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 08:50:20</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

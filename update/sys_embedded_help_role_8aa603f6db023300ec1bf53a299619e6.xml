@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_340232_vignan_at.attendance_user" name="x_340232_vignan_at.attendance_user">86a603f6db023300ec1bf53a299619e4</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-19 04:24:07</sys_created_on>
+        <sys_id>8aa603f6db023300ec1bf53a299619e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>86a603f6db023300ec1bf53a299619e4</sys_name>
+        <sys_package display_value="Vignan_Attendance_Management_System" source="x_340232_vignan_at">94c48fb6db023300ec1bf53a299619db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vignan_Attendance_Management_System">94c48fb6db023300ec1bf53a299619db</sys_scope>
+        <sys_update_name>sys_embedded_help_role_8aa603f6db023300ec1bf53a299619e6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-19 04:24:07</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
